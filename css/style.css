@@ -1,0 +1,36 @@
+header{ 
+
+
+    min-height: 100vh; 
+    background: 
+     linear-gradient( rgba(224, 11, 11, 0.7) , rgba(82, 95, 172, 0.7) ) ,  
+     url(..//images/5.jpg); 
+ 
+     background-position: center; 
+     background-size: cover; 
+
+     padding-top: 150px;
+
+}
+.ki{
+    margin-left: 500px;
+}
+
+
+.containers img{
+    width: 200px;
+    height: 150px;
+    border: solid 1px ;
+    border-radius: 50px;
+    margin-left: 71px;
+    
+    
+    }
+    p{
+        color: rgb(65, 68, 62);
+        margin-left: 110px;  }
+
+        .kk{
+          height: 50px;
+            margin-top: 150px;
+        }
